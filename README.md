@@ -5,6 +5,10 @@ Valkyrie folded keyboard (folded vertical dactyl on full size mx silent swityche
 ## Transformation
 ![vfk_fold](images/vfk_fold2.gif)
 
+## Pilot hands 
+I don't use hovering of hands or wrist rests. When typing, I keep my wrists on the table.
+![vfk_fold](images/hands_position.jpg)
+
 ## BOM (BOM - Bill of Materials)
 - 2 x Pro micro mcu
 - 2 x Headphone Audio Socket PJ-320A
@@ -26,6 +30,9 @@ Valkyrie folded keyboard (folded vertical dactyl on full size mx silent swityche
 I'm building a matrix using sockets from kailh. Sockets give more reliability when soldering. Using a spatula to parse the phone, you can remove the switches without soldering. In this design, the bottom cover relies on the sockets too. The entire matrix is assembled from diodes. It works well.
 ![matrix](images/Handwire_matrix.png)
 ![promicro](images/promicro_pins.png)
+
+## Screws
+![Internal layout](images/screws.png)
 
 ## 3D Print
 I used pet-g filament for printing and PrusaSlicer 2.5. I believe that it is necessary to use 3D glue to increase the adhesion of the printed table. I tried to make the keyboard as small as possible. Perhaps another filament will not be able to give the desired stiffness. It took me a while to print the arch and the bottom beautifully. Several models ended up in the trash can. I will attach a screenshot of the location of difficult to print models.
