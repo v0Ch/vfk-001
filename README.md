@@ -1,9 +1,9 @@
 # VFK-001
 Valkyrie folded keyboard (folded vertical dactyl on full size mx silent swityches) with removable stabilizer
-![vfk_fold](images/vfk_fold2.gif)
+![VFK-001 top view](images/vfk-001_top_view.jpg)
 
 ## Transformation
-![VFK-001 top view](images/vfk-001_top_view.jpg)
+![vfk_fold](images/vfk_fold2.gif)
 
 ## BOM (BOM - Bill of Materials)
 - 2 x Pro micro mcu
