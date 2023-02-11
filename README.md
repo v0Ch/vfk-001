@@ -1,5 +1,8 @@
 # VFK-001
 Valkyrie folded keyboard (folded vertical dactyl on full size mx silent swityches) with removable stabilizer
+![vfk_fold](images/vfk_fold2.gif)
+
+## Transformation
 ![VFK-001 top view](images/vfk-001_top_view.jpg)
 
 ## BOM (BOM - Bill of Materials)
