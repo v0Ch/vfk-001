@@ -45,9 +45,10 @@ It was difficult. But I was able to add a trackball. It can still be folded, but
 - 34mm ball from Aliexpress
 - 3 zrO2 ball static bearing
 
-Mofifed cluster in file - cluster tb.stl
-Trackball module bottom - cluster bottom tb.stl
-Full model with trackball cluseter - vfk-001 trackball 3360.step
+Cluster modifications file:
+- Mofifed cluster in file - cluster tb.stl
+- Trackball module bottom - cluster bottom tb.stl
+- Full model with trackball cluseter - vfk-001 trackball 3360.step
 
 ## 3D Print
 I used pet-g filament for printing and PrusaSlicer 2.5. I believe that it is necessary to use 3D glue to increase the adhesion of the printed table. I tried to make the keyboard as small as possible. Perhaps another filament will not be able to give the desired stiffness. It took me a while to print the arch and the bottom beautifully. Several models ended up in the trash can. I will attach a screenshot of the location of difficult to print models.
